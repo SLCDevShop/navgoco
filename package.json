@@ -6,6 +6,7 @@
     "author": {
         "name": "Chris T (@tefra)"
     },
+    "main": "./src/jquery.navgoco.min.js",
     "repository": {
         "type": "git",
         "url": "git://github.com/tefra/navgoco.git"
